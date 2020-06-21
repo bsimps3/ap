@@ -1,4 +1,4 @@
-# [AP Computer Science Principles]({{ "/" | relative_url }})
+# [AP CSP]({{ "/" | relative_url }})
 
-University Laboratory School\\
+U-High\\
 2020–2021
