@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP Computer Science Principles]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+University Laboratory School\\
+2020–2021
